@@ -11,7 +11,6 @@ AUTHORIZED_TOKEN = "mysecrettoken"
 capital_timezones = {
     "Washington": "America/New_York",
     "Brasilia": "America/Sao_Paulo",
-    "New Delhi": "Asia/Kolkata"
 }
 
 @app.route('/time')
